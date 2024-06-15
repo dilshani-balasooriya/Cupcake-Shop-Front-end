@@ -13,3 +13,7 @@ JavaScript: Interactivity and form handling.
 Responsive Design: Ensures compatibility across devices.
 Contact Form: Allows users to submit inquiries.
 Product Gallery: Displays available cupcakes with descriptions.
+
+
+*Important*
+Screen recorder of the UI is Attached.
